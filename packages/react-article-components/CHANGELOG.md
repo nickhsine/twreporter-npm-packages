@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.8.1-rc.4](https://github.com/twreporter/twreporter-npm-packages/compare/@twreporter/react-article-components@2.8.1-rc.3...@twreporter/react-article-components@2.8.1-rc.4) (2026-03-30)
+
+### Bug Fixes
+
+- test `publish-oidc` job ([6442696](https://github.com/twreporter/twreporter-npm-packages/commit/64426961b6d7382f2609951e50820efbe466c072))
+
 ## [2.8.1-rc.3](https://github.com/twreporter/twreporter-npm-packages/compare/@twreporter/react-article-components@2.8.1-rc.2...@twreporter/react-article-components@2.8.1-rc.3) (2026-03-27)
 
 ### Bug Fixes
