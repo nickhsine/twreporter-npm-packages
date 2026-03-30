@@ -77,6 +77,7 @@ commands:
       - run:
           name: "Publish packages to NPM registry if needed"
           command: |
+            npm set //registry.npmjs.org/:_authToken=$NPM_TOKEN
             ${NODE_BIN_DIR}/lerna publish from-package \
               <<# parameters.prerelease >> --pre-dist-tag rc<</ parameters.prerelease >> \
               --yes
