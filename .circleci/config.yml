@@ -44,11 +44,7 @@ commands:
               exit 1
             fi
 
-            cat > ~/.npmrc <<'EOF'
-            //registry.npmjs.org/:_authToken=${NPM_TOKEN}
-            EOF
-
-            echo "created ~/.npmrc"
+            echo "//registry.npmjs.org/:_authToken=${NPM_TOKEN}" > ~/.npmrc
 
   debug-npm-auth:
     description: "Print debug info of npm auth"
