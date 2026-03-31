@@ -47,10 +47,12 @@ const curve = (
   </svg>
 )
 
-export default function SeparationCurve(props = {}) {
-  return <Separation className={props.className}>{curve}</Separation>
-}
+const SeparationCurve = ({ className }) => (
+  <Separation className={className}>{curve}</Separation>
+)
 
 SeparationCurve.propTypes = {
   className: PropTypes.string,
 }
+
+export default React.memo(SeparationCurve)

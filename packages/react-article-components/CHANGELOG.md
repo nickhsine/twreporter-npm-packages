@@ -3,6 +3,35 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.8.1-rc.4](https://github.com/twreporter/twreporter-npm-packages/compare/@twreporter/react-article-components@2.8.1-rc.3...@twreporter/react-article-components@2.8.1-rc.4) (2026-03-30)
+
+### Bug Fixes
+
+- test `publish-oidc` job ([6442696](https://github.com/twreporter/twreporter-npm-packages/commit/64426961b6d7382f2609951e50820efbe466c072))
+
+## [2.8.1-rc.3](https://github.com/twreporter/twreporter-npm-packages/compare/@twreporter/react-article-components@2.8.1-rc.2...@twreporter/react-article-components@2.8.1-rc.3) (2026-03-27)
+
+### Bug Fixes
+
+- **react-article-components:** add line break ([54a9376](https://github.com/twreporter/twreporter-npm-packages/commit/54a93768b8d454cd66fc370ddf10bdc229dd1ce0))
+
+## [2.8.1-rc.2](https://github.com/twreporter/twreporter-npm-packages/compare/@twreporter/react-article-components@2.8.1-rc.1...@twreporter/react-article-components@2.8.1-rc.2) (2026-03-25)
+
+### Bug Fixes
+
+- address review comment ([2a389c3](https://github.com/twreporter/twreporter-npm-packages/commit/2a389c3b3e2b41a9e3a6ed5802281eb7abba46d9))
+
+## [2.8.1-rc.1](https://github.com/twreporter/twreporter-npm-packages/compare/@twreporter/react-article-components@2.8.1-rc.0...@twreporter/react-article-components@2.8.1-rc.1) (2026-03-24)
+
+### Bug Fixes
+
+- **react-article-components:** fix review comments ([65eb34c](https://github.com/twreporter/twreporter-npm-packages/commit/65eb34c1c38bee9da8fb3564dbe720c1588e1ac3))
+- update article copyright ([9adfb41](https://github.com/twreporter/twreporter-npm-packages/commit/9adfb410025b1d70a672240c2285b40cdf3f25b1))
+
+## [2.8.1-rc.0](https://github.com/twreporter/twreporter-npm-packages/compare/@twreporter/react-article-components@2.8.0...@twreporter/react-article-components@2.8.1-rc.0) (2026-03-23)
+
+**Note:** Version bump only for package @twreporter/react-article-components
+
 # [2.8.0](https://github.com/twreporter/twreporter-npm-packages/compare/@twreporter/react-article-components@2.8.0-rc.0...@twreporter/react-article-components@2.8.0) (2026-02-05)
 
 **Note:** Version bump only for package @twreporter/react-article-components
