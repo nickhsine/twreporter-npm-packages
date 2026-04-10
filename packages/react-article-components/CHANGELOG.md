@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.9.0-rc.0](https://github.com/twreporter/twreporter-npm-packages/compare/@twreporter/react-article-components@2.8.1...@twreporter/react-article-components@2.9.0-rc.0) (2026-04-10)
+
+### Features
+
+- **react-article-components:** sensitive mask for image ([952c4be](https://github.com/twreporter/twreporter-npm-packages/commit/952c4be9a7c0a678c78babf893f372d1b4f9ab72))
+
 ## [2.8.1](https://github.com/twreporter/twreporter-npm-packages/compare/@twreporter/react-article-components@2.8.1-rc.4...@twreporter/react-article-components@2.8.1) (2026-03-31)
 
 **Note:** Version bump only for package @twreporter/react-article-components
