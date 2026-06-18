@@ -40,6 +40,9 @@
     "redux-thunk": "^3.1.0"
   },
   "devDependencies": {
+    "@babel/core": "^7.15.5",
+    "babel-jest": "^24.8.0",
+    "jest": "^24.8.0",
     "nock": "^13.4.0",
     "redux-mock-store": "^1.2.3"
   },
